@@ -32,7 +32,7 @@
 ## Як почати
 
 Для початку використання сайту "DRINK-MASTER", ви можете
-[зайти на наш веб-сайт](https://slipuykamin.github.io/drink-master-app-frontend)
+[зайти на наш веб-сайт](https://vitekvp.github.io/drink-master-team-project-front)
 та зареєструватися. Після цього, ви будете мати доступ до всіх функцій
 бібліотеки напоїв.
 
